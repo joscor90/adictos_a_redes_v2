@@ -13,5 +13,6 @@ def scan_addicts2(arr)
     return new_arr
 end
 
-
-
+#Calling the method
+new_arr = scan_addicts2([80, 90, 100, 170, 180, 190]) #Output should be: ["bien", "mejorable", "mejorable", "mejorable", "mal", "mal"]
+print "#{new_arr}\n"
