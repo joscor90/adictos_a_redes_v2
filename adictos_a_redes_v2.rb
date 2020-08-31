@@ -10,4 +10,8 @@ def scan_addicts2(arr)
             new_arr.push("mal")
         end
     end
+    return new_arr
 end
+
+
+
